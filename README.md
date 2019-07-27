@@ -6,7 +6,6 @@ which country the flag is from. The player can choose flags [(1)](#1) from a num
 - Asia
 - Europe
 - North America
-- Oceania
 - South America
 
 
